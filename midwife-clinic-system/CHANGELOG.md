@@ -145,4 +145,4 @@ This is the first stable release of the Midwife Clinic Management System. The sy
 
 ---
 
-For more detailed information about each release, please refer to the [GitHub Releases](https://github.com/yourusername/midwife-clinic-system/releases) page.
+For more detailed information about each release, please refer to the [GitHub Releases](https://github.com/wondrv/midwife-clinic-system/releases) page.

@@ -66,7 +66,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/midwife-clinic-system.git
+   git clone https://github.com/wondrv/midwife-clinic-system.git
    cd midwife-clinic-system
    ```
 
@@ -236,8 +236,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, please open an issue on GitHub or contact:
 - **Email**: support@midwifeclinic.com
-- **Documentation**: [Wiki](https://github.com/yourusername/midwife-clinic-system/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/midwife-clinic-system/issues)
+- **Documentation**: [Wiki](https://github.com/wondrv/midwife-clinic-system/wiki)
+- **Issues**: [GitHub Issues](https://github.com/wondrv/midwife-clinic-system/issues)
 
 ## 🌟 Star History
 
